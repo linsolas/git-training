@@ -22,3 +22,4 @@ Technologies web :
 * Servlet & JSP 
 * Wicket 
 * Struts2
+* Angular JS
