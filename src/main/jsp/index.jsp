@@ -7,7 +7,7 @@
 	<body>
 		<h1><%= transport.getId() %> - <%= transport.getType() %></h1>
 		<p>
-			<%= transport.getDescription() %>
+			<%= transport.getFullDescription() %>
 		</p>
 
 	</body>
